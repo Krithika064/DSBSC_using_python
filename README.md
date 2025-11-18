@@ -63,7 +63,7 @@ plt.plot(t,s)
 
 ## Tabular Column
 
-![WhatsApp Image 2025-10-28 at 18 56 38_1b3c7972](https://github.com/user-attachments/assets/1e7be690-bcab-40d1-bb1f-02b0e1c6746e)
+<img width="1280" height="815" alt="image" src="https://github.com/user-attachments/assets/6ea731b6-fe5e-475b-bed7-0f9bdc4cbe73" />
 
 
 
